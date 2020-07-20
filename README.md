@@ -11,3 +11,5 @@ I'm a full stack developer 👨‍💻:
 
 
 🚀  Visit my personal site [felipealvescosta.com](https://felipealvescosta.com)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipealvescosta&show_icons=true" alt="felipealvescosta" /> </p>
