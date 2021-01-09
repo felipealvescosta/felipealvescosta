@@ -5,11 +5,7 @@
 ## Hey 👋
 I'm Felipe Alves.
 I'm a full stack developer 👨‍💻:
+I`m a Front-End Developer at SAS Plataforma de Educação
 
-- 💻  ReactJS, NodeJS, React Native, JavaScript, TDD
-- 📱  App Developer  
+That`s all! 
 
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipealvescosta&show_icons=true" alt="felipealvescosta" /> </p>
