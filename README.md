@@ -10,5 +10,3 @@ I`m a Front-End Developer at SAS Plataforma de Educação  👨‍💻:
 <br>
 
 That`s all! 
-
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/felipealvescosta/felipealvescosta)
