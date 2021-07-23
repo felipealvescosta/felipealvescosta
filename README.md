@@ -5,8 +5,7 @@
 ## Hey 👋 
 <br>
 I'm Felipe Alves.
-<br>
-I`m a Front-End Developer at SAS Plataforma de Educação  👨‍💻:
+
 <br>
 
 That`s all! 
