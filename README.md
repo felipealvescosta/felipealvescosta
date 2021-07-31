@@ -6,6 +6,8 @@
 <br>
 I'm Felipe Alves.
 
+Mobile Developer 📱
+
 <br>
 
 That`s all! 
