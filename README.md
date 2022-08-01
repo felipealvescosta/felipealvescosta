@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend and Mobile developer!</h3>
 
 
-- 💼 I’m currently working on [Compass.UOL](https://compass.uol)
+- 💼 I’m currently working on [Ioasys](https://ioasys.com.br)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React, React Native, Vue, Node **
 
